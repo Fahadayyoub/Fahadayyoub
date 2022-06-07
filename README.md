@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **reactNative,react,node**
 
-- 📫 How to reach me **usmanbajwa878@gmail.com**
+- 📫 How to reach me **muhammadfahadayyoub@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
